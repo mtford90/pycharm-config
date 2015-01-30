@@ -1,0 +1,26 @@
+<templateSet group="react">
+  <template name="cwrp" value="componentWillReceiveProps: function (nextProps) {&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_STATEMENT" value="false" />
+    </context>
+  </template>
+  <template name="cdm" value="componentDidMount: function () {&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_STATEMENT" value="false" />
+    </context>
+  </template>
+  <template name="gis" value="getInitialState: function () {&#10;    return {&#10;        $END$&#10;    }&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_STATEMENT" value="false" />
+    </context>
+  </template>
+  <template name="gdp" value="getDefaultProps: function () {&#10;    return {&#10;        $END$&#10;    };&#10;}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_STATEMENT" value="false" />
+    </context>
+  </template>
+</templateSet>

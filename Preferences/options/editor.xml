@@ -1,0 +1,8 @@
+<application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
+    <option name="CUSTOM_SOFT_WRAP_INDENT" value="2" />
+    <option name="SHOW_REFORMAT_DIALOG" value="false" />
+  </component>
+</application>

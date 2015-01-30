@@ -1,0 +1,138 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.5 (/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.5" />
+      <homePath value="/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/pip-1.5.6-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/PIL-1.1.7-py2.7-macosx-10.9-intel.egg" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm30/python_stubs/348993582" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/pip-1.4.1-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/PIL" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.1 (/Library/Frameworks/Python.framework/Versions/3.4/bin/python3.4)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.1" />
+      <homePath value="/Library/Frameworks/Python.framework/Versions/3.4/bin/python3.4" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/plat-darwin" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm30/python_stubs/-730671433" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.5 virtualenv at ~/Playground/mycvenv" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.5" />
+      <homePath value="$USER_HOME$/Playground/mycvenv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Playground/mycvenv/lib/python2.7/site-packages/Pillow-2.5.3-py2.7-macosx-10.9-intel.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Playground/mycvenv/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/Playground/mycvenv/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/Playground/mycvenv/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm30/python_stubs/378573218" />
+            <root type="simple" url="file://$USER_HOME$/Playground/mycvenv/lib/python2.7/site-packages/PIL-1.1.7-py2.7-macosx-10.9-intel.egg" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.0 virtualenv at ~/Envs/silk" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.0" />
+      <homePath value="$USER_HOME$/Envs/silk/bin/python3.4" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Envs/silk/lib/python3.4" />
+            <root type="simple" url="file://$USER_HOME$/Envs/silk/lib/python3.4/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/Envs/silk/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/Envs/silk/lib/python3.4/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/218132109" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.5 virtualenv at ~/Envs/TCJ" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.5" />
+      <homePath value="$USER_HOME$/Envs/TCJ/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Envs/TCJ/src/unicodecsv-master" />
+            <root type="simple" url="file://$USER_HOME$/Envs/TCJ/lib/python2.7/site-packages/CherryPy-3.6.0-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/Envs/TCJ/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/Envs/TCJ/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file://$USER_HOME$/Envs/TCJ/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Envs/TCJ/lib/python2.7/site-packages/newrelic-2.24.0.21" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-684659311" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

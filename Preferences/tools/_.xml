@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="fakes3" description="fake instance of s3" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.rvm/gems/ruby-2.1.2/bin/fakes3" />
+      <option name="PARAMETERS" value="server -h 192.168.1.91 -r /Users/mtford/Playground/s3root -p 4567" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Playground/s3root" />
+    </exec>
+  </tool>
+</toolSet>

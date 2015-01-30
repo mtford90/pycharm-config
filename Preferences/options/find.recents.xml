@@ -1,0 +1,87 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>couch</find>
+      <find>create user i</find>
+      <find>create user</find>
+      <find>basicAuth</find>
+      <find>AUTH)</find>
+      <find>CouchError</find>
+      <find>watch</find>
+      <find>auth =</find>
+      <find>create</find>
+      <find>functipn API</find>
+      <find>API</find>
+      <find>API.</find>
+      <find>admin:</find>
+      <find>function API</find>
+      <find>API =</find>
+      <find>.admin.</find>
+      <find>.admin</find>
+      <find>logout:</find>
+      <find>this.admin</find>
+      <find>reset:</find>
+      <find>createuser</find>
+      <find>setAuth</find>
+      <find>verify</find>
+      <find>verify:</find>
+      <find>App</find>
+      <find>Link</find>
+      <find>userActions</find>
+      <find>Logout</find>
+      <find>logout</find>
+      <find>login</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'&lt;%= livereload_port %&gt;'</replace>
+      <replace>siesta.</replace>
+      <replace>results</replace>
+      <replace>siesta</replace>
+      <replace>ModelInstance</replace>
+      <replace>listenAndSetState</replace>
+      <replace>onFuzzChange</replace>
+      <replace>User.graph</replace>
+      <replace>Photo.graph</replace>
+      <replace>Model.graph</replace>
+      <replace>Repo.graph</replace>
+      <replace>ParentConfig.graph</replace>
+      <replace>MyOtherModel.graph</replace>
+      <replace>Task.graph</replace>
+      <replace>Mapping.graph</replace>
+      <replace>Person.graph</replace>
+      <replace>M.graph</replace>
+      <replace>M_2.graph</replace>
+      <replace>Car.graph</replace>
+      <replace>.graph</replace>
+      <replace>require('react')</replace>
+      <replace>defaultDB</replace>
+      <replace>admin</replace>
+      <replace>http</replace>
+      <replace>json</replace>
+      <replace>.masonry</replace>
+      <replace>couchdb = require('../src/couchdb').couchdb</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/Playground/silk/tests</dir>
+      <dir>$USER_HOME$/Playground/dowser</dir>
+      <dir>$USER_HOME$/Playground/TCJ/TCJ</dir>
+      <dir>$USER_HOME$/Playground/TCJ</dir>
+      <dir>$USER_HOME$/Playground/ng-siesta</dir>
+      <dir>$USER_HOME$/Playground/rest/test</dir>
+      <dir>$USER_HOME$/Playground/rest/core</dir>
+      <dir>$USER_HOME$/Playground/rest</dir>
+      <dir>$USER_HOME$/Playground/pb/tests</dir>
+      <dir>$USER_HOME$/Playground/pb/tests/unit</dir>
+      <dir>$USER_HOME$/Playground/pb/src</dir>
+      <dir>$USER_HOME$/Playground/pv2/node_modules/react-router/modules</dir>
+      <dir>$USER_HOME$/Playground/yallreadyforthis</dir>
+      <dir>$USER_HOME$/Playground/pv2</dir>
+      <dir>$USER_HOME$/Playground/pv2/styles</dir>
+      <dir>$USER_HOME$/Playground/pv2/scripts</dir>
+      <dir>$USER_HOME$/Playground/pv2/node_modules</dir>
+      <dir>$USER_HOME$/Playground/pv2/styles/scss</dir>
+      <dir>$USER_HOME$/Playground/couchdb-as-a-backend/front/test</dir>
+    </dirStrings>
+  </component>
+</application>

@@ -1,0 +1,69 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="740" y="332" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="675" y="426" />
+    <location key="OptionsEditor.0.0.1920.1080" x="348" y="127" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="746" y="242" />
+    <location key="findTextDialog.0.0.1920.1080" x="754" y="313" />
+    <location key="dock-window-1.0.0.1920.1080" x="332" y="77" />
+    <location key="#Test:_silk.tests.test_execute_sql.0.0.1920.1080" x="699" y="223" />
+    <location key="#Test:_silk.tests.test_execute_sql.TestCollectorInteraction.test_request.0.0.1920.1080" x="699" y="223" />
+    <location key="#com.intellij.tools.ToolEditorDialog.1920.-503.1080.1920" x="2125" y="3" />
+    <location key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey.1920.-503.1080.1920" x="2354" y="13" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.-503.1080.1920" x="1924" y="-320" />
+    <location key="findTextDialog.1920.0.1920.1080" x="2674" y="315" />
+    <location key="WELCOME_SCREEN.1920.0.1920.1080" x="2879" y="300" />
+    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1080" x="2608" y="349" />
+    <location key="OptionsEditor.1920.0.1920.1080" x="2395" y="157" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.0.1920.1080" x="2354" y="184" />
+    <location key="#__init__.1920.0.1920.1080" x="2629" y="197" />
+    <location key="replaceTextDialog.1920.0.1920.1080" x="2681" y="266" />
+    <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2644" y="396" />
+    <location key="#com.intellij.ide.scriptingContext.ui.LibraryScopesDialog.1920.0.1920.1080" x="2306" y="448" />
+    <location key="CommitChangelistDialog2.1920.0.1920.1080" x="2147" y="225" />
+    <location key="Vcs.Push.Dialog.1920.0.1920.1080" x="2542" y="265" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.1920.0.1920.1080" x="2678" y="432" />
+    <location key="StructurePopup.1920.0.1920.1080" x="1263" y="260" />
+    <location key="dock-window-1.1920.0.1920.1080" x="153" y="22" />
+    <location key="ReplaceDuplicatesPrompt.1920.0.1920.1080" x="2408" y="463" />
+    <location key="dock-window-2.1920.0.1920.1080" x="2194" y="175" />
+    <location key="com.intellij.lang.javascript.refactoring.extractMethod.JSExtractFunctionDialog.1920.0.1920.1080" x="3063" y="237" />
+    <location key="#Browse_Repositories.1920.0.1920.1080" x="2444" y="296" />
+    <location key="git4idea.merge.GitPullDialog.1920.0.1920.1080" x="2674" y="340" />
+    <location key="DiffWindow.1920.0.1920.1080" x="2074" y="146" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.1920.0.1920.1080" x="2644" y="315" />
+    <location key="#com.intellij.ide.util.MemberChooser.1920.0.1920.1080" x="2692" y="231" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.1920.0.1920.1080" x="2717" y="136" />
+    <location key="#bombard_yallreadyforthis.1920.0.1920.1080" x="2652" y="223" />
+    <location key="refactoring.ChangeSignatureDialog.1920.0.1920.1080" x="2642" y="168" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.1920.0.1920.1080" x="705" y="426" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1920" height="358" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1920" height="358" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1920" height="358" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1920" height="358" />
+    <size key="dock-window-1.0.0.1920.1080" width="1524" height="868" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.-503.1080.1920" width="1071" height="1127" />
+    <size key="GridCell.Tab.0.left.1920.-503.1080.1920" width="1080" height="575" />
+    <size key="GridCell.Tab.0.center.1920.-503.1080.1920" width="1080" height="575" />
+    <size key="GridCell.Tab.0.right.1920.-503.1080.1920" width="1080" height="575" />
+    <size key="GridCell.Tab.0.bottom.1920.-503.1080.1920" width="1080" height="575" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1920" height="309" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1920" height="309" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1920" height="309" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1920" height="309" />
+    <size key="#com.intellij.ide.scriptingContext.ui.LibraryScopesDialog.1920.0.1920.1080" width="1424" height="428" />
+    <size key="CommitChangelistDialog2.1920.0.1920.1080" width="992" height="681" />
+    <size key="StructurePopup.1920.0.1920.1080" width="454" height="441" />
+    <size key="replaceTextDialog.1920.0.1920.1080" width="816" height="547" />
+    <size key="dock-window-1.1920.0.1920.1080" width="1149" height="679" />
+    <size key="dock-window-2.1920.0.1920.1080" width="1485" height="728" />
+    <size key="DiffWindow.1920.0.1920.1080" width="1611" height="728" />
+    <size key="jetbrains.javascript.buildTools.gulp.1920.0.1920.1080" width="250" height="276" />
+    <size key="StructurePopup.0.0.1920.1080" width="384" height="441" />
+    <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
+    <extendedState key="dock-window-2" state="0" />
+    <extendedState key="dock-window-1" state="0" />
+    <extendedState key="CommittedChanges.SplitterProportions.0" state="700" />
+    <extendedState key="DiffWindow" state="0" />
+  </component>
+</application>
