@@ -5,8 +5,9 @@
       <mapping pattern="mem_usage" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="couchjs" type="PLAIN_TEXT" />
+      <mapping pattern="sofa" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
-    <setting name="fileTypeChangedCounter" value="4" />
+    <setting name="fileTypeChangedCounter" value="5" />
   </component>
 </application>

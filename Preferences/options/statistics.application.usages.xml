@@ -1,13 +1,13 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="run-configuration-type-temp">
-      <project id="TCJ" values="PythonConfigurationType" />
+      <project id="pb" values="Unknown" />
       <project id="couchdb-as-a-backend" values="BashConfigurationType" />
       <project id="yallreadyforthis" values="PythonConfigurationType" />
       <project id="myc" values="PythonConfigurationType,DjangoTestsConfigurationType" />
       <project id="silk" values="PythonConfigurationType" />
       <project id="django_silky" values="DjangoTestsConfigurationType,PythonConfigurationType" />
-      <project id="pb" values="Unknown" />
+      <project id="TCJ" values="PythonConfigurationType" />
     </group>
     <group name="jdbc-datasource">
       <project id="django_silky" values="SQLite/3.7.6.3" />
@@ -15,24 +15,32 @@
     </group>
     <group name="vcs">
       <project id="ng-siesta" values="Git" />
-      <project id="pb" values="Git" />
+      <project id="TCJ" values="Git" />
       <project id="couchdb-as-a-backend" values="Git" />
       <project id="yallreadyforthis" values="Git" />
       <project id="tests" values="Git" />
       <project id="myc" values="Git" />
       <project id="silk" values="Git" />
-      <project id="TCJ" values="Git" />
+      <project id="pb" values="Git" />
+    </group>
+    <group name="frameworks">
+      <project id="yallreadyforthis" values="django" />
+      <project id="tests" values="django" />
+      <project id="myc" values="django" />
+      <project id="silk" values="django" />
+      <project id="django_silky" values="django" />
+      <project id="TCJ" values="django" />
     </group>
     <group name="JavaScript versions">
       <project id="ng-siesta" values="JSX Harmony" />
-      <project id="pb" values="DEFAULT" />
+      <project id="TCJ" values="JSX Harmony" />
       <project id="couchdb-as-a-backend" values="JSX Harmony" />
       <project id="yallreadyforthis" values="DEFAULT" />
       <project id="tests" values="DEFAULT" />
       <project id="myc" values="DEFAULT" />
       <project id="silk" values="ECMAScript 5.1" />
       <project id="django_silky" values="DEFAULT" />
-      <project id="TCJ" values="JSX Harmony" />
+      <project id="pb" values="DEFAULT" />
     </group>
     <group name="run-configuration-type">
       <project id="yallreadyforthis" values="Python.DjangoServer" />
@@ -43,28 +51,17 @@
       <project id="pb" values="Unknown" />
     </group>
     <group name="py-packages">
-      <project id="TCJ" values="django-seo-js,django-toolbelt,django-cors-headers,boto,PyYAML,gunicorn,Pygments,drf-extensions,nose,pycrypto,python-mimeparse,django-fixture-magic,pystache,ipython,objgraph,wercker,django-guardian,django-queryinspect,analytics-python,gnureadline,webassets,requests,dj-static,django-extensions,django-geoposition,paramiko,newrelic,django-filter,prettytime,autoenv,anyjson,django-assets,kombu,beautifulsoup4,pylibmc,guppy,South,djangorestframework,httplib2,django-dirtyfields,django-watson,docutils,django-appconf,Django-Select2,enum34,six,html5lib,billiard,dj-database-url,humanize,python-dateutil,psycopg2,django-model-utils,bleach,static,stripe,Fabric,mongoengine,BeautifulSoup,django-pylibmc-sasl,django-rest-swagger,gspread,django-annoying,django-reversion,pymongo,django-jsonfield,djangorestframework-chain,djrill,tornado,ipdb,Werkzeug,django-storages,django-sslify,Django,django-suit-redactor,num2words,celery,mock,django-suit,Pillow,gevent,blessings,docopt,Markdown,wsgiref,django-grappelli,certifi,librabbitmq,django-apptemplates,dulwich,mandrill,django-nose,amqp,Jinja2,grequests,pytz,flower,django-celery,MarkupSafe,Sphinx,ecdsa" />
-      <project id="yallreadyforthis" values="dj-database-url,Werkzeug,pymongo,ecdsa,django-suit-redactor,pystache,newrelic,django-watson,html5lib,gnureadline,guppy,flower,tornado,static,boto,Django,certifi,gevent,gunicorn,django-nose,kombu,stripe,djangorestframework-chain,django-seo-js,South,blessings,django-reversion,Markdown,python-mimeparse,docopt,MarkupSafe,Django-Select2,paramiko,billiard,amqp,django-filter,nose,autoenv,mock,pycrypto,objgraph,psutil,bleach,humanize,PyYAML,beautifulsoup4,num2words,ipython,python-dateutil,gspread,wsgiref,django-geoposition,wercker,django-storages,mongoengine,docutils,ipdb,django-extensions,django-appconf,requests,grequests,django-jsonfield,enum34,djrill,django-guardian,django-rest-swagger,webassets,django-celery,django-model-utils,Sphinx,dulwich,django-cors-headers,django-annoying,drf-extensions,prettytime,django-sslify,librabbitmq,django-pylibmc-sasl,django-toolbelt,django-assets,six,djangorestframework,BeautifulSoup,httplib2,psycopg2,django-queryinspect,pylibmc,Fabric,django-grappelli,pytz,django-dirtyfields,django-apptemplates,celery,Jinja2,dj-static,Pygments,anyjson,Pillow,django-suit,analytics-python,mandrill,django-fixture-magic" />
-      <project id="silk" values="python-dateutil,requests,sqlparse,South,mock,pytz,Pygments,Jinja2,Django,six,autopep8,Pillow,simplejson" />
+      <project id="TCJ" values="django-suit,django-suit-redactor,Django,billiard,django-appconf,grequests,autoenv,South,django-sslify,django-cors-headers,amqp,ipython,docopt,pytz,django-model-utils,mock,django-jsonfield,Markdown,python-mimeparse,BeautifulSoup,django-reversion,django-nose,prettytime,django-storages,djrill,MarkupSafe,gnureadline,django-extensions,django-seo-js,dulwich,static,enum34,flower,python-dateutil,dj-static,gevent,nose,djangorestframework,django-queryinspect,boto,docutils,beautifulsoup4,mongoengine,dj-database-url,PyYAML,pystache,django-celery,analytics-python,django-apptemplates,Werkzeug,django-fixture-magic,bleach,certifi,django-dirtyfields,requests,django-geoposition,pymongo,paramiko,mandrill,guppy,newrelic,num2words,celery,ecdsa,gunicorn,anyjson,ipdb,django-guardian,webassets,librabbitmq,httplib2,stripe,django-pylibmc-sasl,pylibmc,tornado,gspread,psycopg2,html5lib,Pygments,pycrypto,objgraph,wsgiref,django-watson,humanize,django-grappelli,django-rest-swagger,Pillow,Django-Select2,six,django-assets,django-filter,djangorestframework-chain,Fabric,Sphinx,django-toolbelt,wercker,Jinja2,drf-extensions,kombu,django-annoying,blessings" />
+      <project id="yallreadyforthis" values="django-watson,django-nose,Sphinx,anyjson,ipdb,django-celery,amqp,djangorestframework-chain,django-cors-headers,django-suit-redactor,psutil,Django-Select2,django-dirtyfields,docopt,dj-database-url,pytz,django-suit,PyYAML,Pygments,ecdsa,six,html5lib,Pillow,django-appconf,django-model-utils,Fabric,grequests,python-mimeparse,newrelic,librabbitmq,prettytime,gnureadline,webassets,boto,django-seo-js,pymongo,django-annoying,dulwich,django-queryinspect,tornado,billiard,django-toolbelt,mandrill,paramiko,django-rest-swagger,Django,requests,django-assets,ipython,Werkzeug,stripe,celery,django-filter,wsgiref,django-extensions,django-pylibmc-sasl,certifi,flower,Jinja2,httplib2,autoenv,pycrypto,nose,psycopg2,Markdown,beautifulsoup4,dj-static,enum34,humanize,MarkupSafe,gspread,python-dateutil,django-guardian,django-sslify,bleach,pystache,South,gevent,wercker,docutils,django-reversion,drf-extensions,analytics-python,djangorestframework,kombu,static,pylibmc,django-apptemplates,django-grappelli,mongoengine,mock,num2words,guppy,blessings,BeautifulSoup,objgraph,django-fixture-magic,djrill,django-storages,django-jsonfield,django-geoposition,gunicorn" />
+      <project id="silk" values="autopep8,sqlparse,python-dateutil,Pillow,Pygments,mock,pytz,Jinja2,South,simplejson,requests,six,Django" />
     </group>
     <group name="jdbc-driver">
       <project id="django_silky" values="org.sqlite.JDBC" />
       <project id="TCJ" values="org.postgresql.Driver,org.postgresql.Driver,org.postgresql.Driver" />
       <project id="myc" values="org.postgresql.Driver" />
     </group>
-    <group name="javaScript Scope Usages">
-      <project id="ng-siesta" values="Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory" />
-      <project id="pb" values="Project,Directory,Project" />
-      <project id="couchdb-as-a-backend" values="Project,Project,Project,Project" />
-      <project id="yallreadyforthis" values="Project,Project" />
-      <project id="tests" values="Project,Project" />
-      <project id="myc" values="Project,Project" />
-      <project id="silk" values="Project,Project,Project,Project" />
-      <project id="django_silky" values="Project,Project" />
-      <project id="TCJ" values="Project,Project,Project,Project" />
-    </group>
     <group name="py-interpreter">
-      <project id="couchdb-as-a-backend" values="Python 3.4.1" />
+      <project id="couchdb-as-a-backend" values="Python 3.4.1,Python 3.4.1" />
       <project id="yallreadyforthis" values="Python 2.7.5" />
       <project id="tests" values="Python 3.4.0" />
       <project id="myc" values="Python 2.7.5" />
@@ -72,69 +69,73 @@
       <project id="django_silky" values="Python 2.7.5" />
       <project id="TCJ" values="Python 2.7.5" />
     </group>
-    <group name="frameworks">
-      <project id="yallreadyforthis" values="django" />
-      <project id="tests" values="django" />
-      <project id="myc" values="django" />
-      <project id="silk" values="django" />
-      <project id="django_silky" values="django" />
-      <project id="TCJ" values="django" />
-    </group>
     <group name="javaScript Frameworks">
-      <project id="silk" values="node_modules,Node.js Core Modules" />
-      <project id="pb" values="node_modules" />
-      <project id="TCJ" values="node_modules,Node.js Core Modules" />
       <project id="couchdb-as-a-backend" values="node_modules" />
       <project id="ng-siesta" values="node_modules,Node.js Core Modules" />
-    </group>
-    <group name="file-type">
-      <project id="ng-siesta" values="Markdown,HTML,Images,JSON,Bash,Gitignore file,YAML,Handlebars/Mustache,CSS,UNKNOWN,Ini,ARCHIVE,XML,Stylus,SCSS,JavaScript,Npmignore file,PLAIN_TEXT,JSHint" />
-      <project id="pb" values="PATCH,DTD,Stylus,C++,XML,Perl,CoffeeScript,SQL,EJS,JSHint,Images,Gitignore file,Markdown,JSON,PLAIN_TEXT,JavaScript,SCSS,Npmignore file,SASS,SourceMap,UNKNOWN,CSS,YAML,ARCHIVE,Python,HTML,JSCS,ESLint" />
-      <project id="couchdb-as-a-backend" values="ActionScript,C++,CSS,Ini,JavaScript,Puppet,JSON,Images,SCSS,UNKNOWN,Bash,PLAIN_TEXT,ReST,YAML,XML,ARCHIVE,HTML,PATCH,IDL,Perl,Markdown,Python,Erlang,Gitignore file,EB Extensions config" />
-      <project id="yallreadyforthis" values="XML,UNKNOWN,SQL,YAML,LESS,CSS,Ini,JSON,PLAIN_TEXT,SCSS,JSHint,Python,SourceMap,Bash,Markdown,JavaScript,Gitignore file,ARCHIVE,HTML,CoffeeScript,Images" />
-      <project id="tests" values="Python,PLAIN_TEXT,XML,UNKNOWN,JavaScript,CSS,HTML,Images" />
-      <project id="myc" values="CSS,Ini,YAML,JavaScript,Python,HTML,UNKNOWN,Images,XML,Jinja2,PLAIN_TEXT,DATASOURCE_STORAGE" />
-      <project id="silk" values="Ini,Python,ReST,ESLint,ARCHIVE,JSCS,XML,Images,CSS,JavaScript,CoffeeScript,JSON,PATCH,C++,YAML,PLAIN_TEXT,UNKNOWN,HTML,Locale,JSHint" />
-      <project id="django_silky" values="CSS,Python,JavaScript,SQLite Database,UNKNOWN,XML,Images,PLAIN_TEXT,DATASOURCE_STORAGE,HTML" />
-      <project id="TCJ" values="Gitignore file,PLAIN_TEXT,SourceMap,Python,Ini,XML,LESS,JSHint,Images,JSON,Markdown,CoffeeScript,ARCHIVE,CSS,JavaScript,HTML,Bash,SQL,YAML,SCSS,DATASOURCE_STORAGE,UNKNOWN" />
+      <project id="TCJ" values="node_modules,Node.js Core Modules" />
+      <project id="silk" values="Node.js Core Modules,node_modules" />
+      <project id="pb" values="node_modules" />
     </group>
     <group name="module type">
-      <project id="ng-siesta" values="PYTHON_MODULE,WEB_MODULE" />
-      <project id="pb" values="WEB_MODULE" />
+      <project id="ng-siesta" values="WEB_MODULE,PYTHON_MODULE" />
+      <project id="TCJ" values="PYTHON_MODULE" />
       <project id="couchdb-as-a-backend" values="PYTHON_MODULE" />
       <project id="yallreadyforthis" values="PYTHON_MODULE" />
       <project id="tests" values="PYTHON_MODULE" />
       <project id="myc" values="PYTHON_MODULE" />
       <project id="silk" values="PYTHON_MODULE" />
       <project id="django_silky" values="PYTHON_MODULE" />
-      <project id="TCJ" values="PYTHON_MODULE" />
+      <project id="pb" values="WEB_MODULE" />
+    </group>
+    <group name="file-type">
+      <project id="ng-siesta" values="Images,UNKNOWN,PLAIN_TEXT,Bash,Handlebars/Mustache,Stylus,YAML,Gitignore file,JSON,JavaScript,JSHint,XML,Npmignore file,Ini,CSS,HTML,SCSS,Markdown,ARCHIVE" />
+      <project id="TCJ" values="SQL,UNKNOWN,Python,Ini,ARCHIVE,Bash,JSON,DATASOURCE_STORAGE,CSS,SCSS,CoffeeScript,PLAIN_TEXT,SourceMap,LESS,Markdown,Gitignore file,Images,YAML,JSHint,JavaScript,XML,HTML" />
+      <project id="couchdb-as-a-backend" values="PLAIN_TEXT,Gitignore file,XML,Images,Bash,Ini,SCSS,Markdown,JavaScript,JSON,UNKNOWN,HTML" />
+      <project id="yallreadyforthis" values="JavaScript,Python,PLAIN_TEXT,SQL,JSHint,Gitignore file,CSS,UNKNOWN,Ini,CoffeeScript,SCSS,HTML,XML,JSON,YAML,ARCHIVE,Bash,LESS,Images,Markdown,SourceMap" />
+      <project id="tests" values="PLAIN_TEXT,XML,CSS,Python,JavaScript,HTML,Images,UNKNOWN" />
+      <project id="myc" values="YAML,Python,JavaScript,CSS,XML,Jinja2,UNKNOWN,Images,HTML,PLAIN_TEXT,Ini,DATASOURCE_STORAGE" />
+      <project id="silk" values="ARCHIVE,C++,JSHint,CSS,Locale,JavaScript,JSCS,Images,YAML,ESLint,CoffeeScript,XML,PATCH,Ini,PLAIN_TEXT,HTML,Python,ReST,JSON,UNKNOWN" />
+      <project id="django_silky" values="DATASOURCE_STORAGE,SQLite Database,PLAIN_TEXT,CSS,XML,JavaScript,HTML,UNKNOWN,Python,Images" />
+      <project id="pb" values="PATCH,Gitignore file,DTD,JSON,JSHint,SASS,EJS,C++,ESLint,Perl,Python,ARCHIVE,YAML,Npmignore file,CSS,SQL,PLAIN_TEXT,SourceMap,HTML,CoffeeScript,JavaScript,Images,XML,Markdown,SCSS,Stylus,UNKNOWN,JSCS" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="ng-siesta" values="Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory,Directory" />
+      <project id="TCJ" values="Project,Project,Project,Project" />
+      <project id="couchdb-as-a-backend" values="Project,Project,Project,Project" />
+      <project id="yallreadyforthis" values="Project,Project" />
+      <project id="tests" values="Project,Project" />
+      <project id="myc" values="Project,Project" />
+      <project id="silk" values="Project,Project,Project,Project" />
+      <project id="django_silky" values="Project,Project" />
+      <project id="pb" values="Project,Directory,Project" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="36" />
+      <entry feature="CreateFile.CreateFileAction" count="47" />
       <entry feature="execute.BashConfigurationType.Run" count="2" />
       <entry feature="execute.DjangoTestsConfigurationType.Run" count="38" />
       <entry feature="execute.Python.DjangoServer.Run" count="60" />
       <entry feature="execute.PythonConfigurationType.Run" count="457" />
-      <entry feature="execute.js.build_tools.gulp.Run" count="13" />
-      <entry feature="ide.settings.Appearance" count="3" />
+      <entry feature="execute.js.build_tools.gulp.Run" count="15" />
+      <entry feature="ide.settings.Appearance" count="5" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
       <entry feature="ide.settings.Console_Font" count="1" />
       <entry feature="ide.settings.Django" count="2" />
       <entry feature="ide.settings.File_Watchers" count="1" />
-      <entry feature="ide.settings.File_and_Code_Templates" count="3" />
-      <entry feature="ide.settings.Font" count="6" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="13" />
+      <entry feature="ide.settings.Font" count="8" />
       <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Git" count="1" />
       <entry feature="ide.settings.JavaScript" count="6" />
       <entry feature="ide.settings.Keymap" count="6" />
-      <entry feature="ide.settings.Libraries" count="10" />
+      <entry feature="ide.settings.Libraries" count="11" />
       <entry feature="ide.settings.Live_Templates" count="14" />
       <entry feature="ide.settings.Project_Interpreter" count="7" />
       <entry feature="ide.settings.Project_Structure" count="1" />
       <entry feature="ide.settings.Python_Template_Languages" count="1" />
       <entry feature="ide.settings.Version_Control" count="1" />
-      <entry feature="ideaapp.started" count="67" />
+      <entry feature="ideaapp.started" count="71" />
     </counts>
   </component>
 </application>

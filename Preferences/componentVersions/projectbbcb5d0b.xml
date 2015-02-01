@@ -1,5 +1,5 @@
 <versions>
-  <component name="ChangeListManager" version="1422655825760" />
+  <component name="ChangeListManager" version="1422803326135" />
   <component name="ChangesViewManager" version="1422386636292" />
   <component name="CreatePatchCommitExecutor" version="1422386636292" />
   <component name="DaemonCodeAnalyzer" version="1422386636292" />
@@ -7,30 +7,31 @@
   <component name="Encoding" version="1422386636292" />
   <component name="ExecutionTargetManager" version="1422438053511" />
   <component name="FavoritesManager" version="1422438053511" />
-  <component name="FileEditorManager" version="1422655993658" />
-  <component name="Git.Settings" version="1422439127180" />
-  <component name="GulpTreeLayoutManager" version="1422438279182" />
-  <component name="IdeDocumentHistory" version="1422655844920" />
+  <component name="FileEditorManager" version="1422806176928" />
+  <component name="Git.Settings" version="1422804164996" />
+  <component name="GulpTreeLayoutManager" version="1422701615732" />
+  <component name="IdeDocumentHistory" version="1422805966712" />
   <component name="JavaScriptLibraryMappings" version="1422438053532" />
-  <component name="JsGulpfileManager" version="1422474929754" />
-  <component name="ProjectFrameBounds" version="1422639814496" />
+  <component name="JsGulpfileManager" version="1422803743453" />
+  <component name="ProjectFrameBounds" version="1422805390966" />
+  <component name="ProjectInspectionProfilesVisibleTreeState" version="1422731746137" />
   <component name="ProjectLevelVcsManager" version="1422439123033" />
-  <component name="ProjectModuleManager" version="1422386636293" />
+  <component name="ProjectModuleManager" version="1422803743454" />
   <component name="ProjectRootManager" version="1422386636293" />
   <component name="ProjectTasksOptions" version="1422477057900" />
-  <component name="ProjectView" version="1422653605747" />
-  <component name="PropertiesComponent" version="1422633645238" />
+  <component name="ProjectView" version="1422804905074" />
+  <component name="PropertiesComponent" version="1422805260689" />
   <component name="PyConsoleOptionsProvider" version="1422438227294" />
-  <component name="RecentsManager" version="1422530728314" />
-  <component name="RunManager" version="1422637225709" />
+  <component name="RecentsManager" version="1422804826176" />
+  <component name="RunManager" version="1422803779927" />
   <component name="ShelveChangesManager" version="1422386636293" />
   <component name="SvnConfiguration" version="1422438099750" />
   <component name="TaskManager" version="1422459507072" />
-  <component name="ToolWindowManager" version="1422653750684" />
+  <component name="ToolWindowManager" version="1422805390999" />
   <component name="Vcs.Log.UiProperties" version="1422438053563" />
   <component name="VcsContentAnnotationSettings" version="1422386636293" />
   <component name="VcsDirectoryMappings" version="1422439123041" />
-  <component name="VcsManagerConfiguration" version="1422459507073" />
-  <component name="XDebuggerManager" version="1422610920054" />
-  <component name="editorHistoryManager" version="1422655993668" />
+  <component name="VcsManagerConfiguration" version="1422732003286" />
+  <component name="XDebuggerManager" version="1422792465498" />
+  <component name="editorHistoryManager" version="1422806176942" />
 </versions>

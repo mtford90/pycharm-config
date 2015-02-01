@@ -37,6 +37,17 @@
     <location key="#bombard_yallreadyforthis.1920.0.1920.1080" x="2652" y="223" />
     <location key="refactoring.ChangeSignatureDialog.1920.0.1920.1080" x="2642" y="168" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.1920.0.1920.1080" x="705" y="426" />
+    <location key="OptionsEditor.0.0.1440.900" x="-88" y="23" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1440.900" x="489" y="329" />
+    <location key="replaceTextDialog.0.0.1440.900" x="518" y="184" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1440.900" x="264" y="360" />
+    <location key="FileChooserDialogImpl.0.0.1440.900" x="496" y="196" />
+    <location key="#com.intellij.ide.scriptingContext.ui.LibraryScopesDialog.0.0.1440.900" x="446" y="222" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1440.900" x="473" y="241" />
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="719" y="300" />
+    <location key="com.intellij.lang.javascript.refactoring.extractMethod.JSExtractFunctionDialog.0.0.1440.900" x="481" y="71" />
+    <location key="findTextDialog.0.0.1440.900" x="642" y="229" />
+    <location key="StructurePopup.0.0.1440.900" x="643" y="238" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1920" height="358" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1920" height="358" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1920" height="358" />
@@ -60,6 +71,12 @@
     <size key="DiffWindow.1920.0.1920.1080" width="1611" height="728" />
     <size key="jetbrains.javascript.buildTools.gulp.1920.0.1920.1080" width="250" height="276" />
     <size key="StructurePopup.0.0.1920.1080" width="384" height="441" />
+    <size key="jetbrains.javascript.buildTools.gulp.0.0.1440.900" width="495" height="355" />
+    <size key="GridCell.Tab.0.left.0.0.1440.900" width="1144" height="186" />
+    <size key="GridCell.Tab.0.center.0.0.1440.900" width="1144" height="186" />
+    <size key="GridCell.Tab.0.right.0.0.1440.900" width="1144" height="186" />
+    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="1144" height="186" />
+    <size key="StructurePopup.0.0.1440.900" width="396" height="439" />
     <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
     <extendedState key="dock-window-2" state="0" />
     <extendedState key="dock-window-1" state="0" />

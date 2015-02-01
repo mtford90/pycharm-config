@@ -1,25 +1,25 @@
 <versions>
   <component name="AbbreviationManager" version="1421501521091" />
   <component name="ApplicationTasksOptions" version="1422477057913" />
-  <component name="BaseRefactoringSettings" version="1421763954362" />
+  <component name="BaseRefactoringSettings" version="1422804826209" />
   <component name="CodeInsightSettings" version="1421225818646" />
   <component name="CodeStyleSchemeSettings" version="1422302504644" />
   <component name="DaemonCodeAnalyzerSettings" version="1421501521092" />
   <component name="DatabaseSettings" version="1421664800855" />
-  <component name="DimensionService" version="1422616280361" />
+  <component name="DimensionService" version="1422805391070" />
   <component name="EditorColorsManagerImpl" version="1422387529205" />
   <component name="EditorSettings" version="1422438227363" />
   <component name="Encoding" version="1421501521093" />
   <component name="ExportableFileTemplateSettings" version="1421225818647" />
   <component name="ExportableTemplateSettings" version="1410333709131" />
   <component name="ExternalResourceManagerImpl" version="1421501521093" />
-  <component name="FeatureUsageStatistics" version="1422655980301" />
+  <component name="FeatureUsageStatistics" version="1422806011079" />
   <component name="FileBasedIndex" version="1422219222361" />
-  <component name="FileTypeManager" version="1422462321020" />
-  <component name="FindRecents" version="1422655980302" />
+  <component name="FileTypeManager" version="1422731537103" />
+  <component name="FindRecents" version="1422804302890" />
   <component name="FindSettings" version="1422114438058" />
   <component name="GeneralSettings" version="1421592806215" />
-  <component name="Git.Application.Settings" version="1421578584471" />
+  <component name="Git.Application.Settings" version="1422701481196" />
   <component name="HttpConfigurable" version="1421501521101" />
   <component name="IgnoreSettings" version="1421665404493" />
   <component name="Images.OptionsManager" version="1421689684405" />
@@ -33,26 +33,26 @@
   <component name="PathMacrosImpl" version="1421500801819" />
   <component name="PluginManagerConfigurable" version="1422462321031" />
   <component name="ProjectJdkTable" version="1421669025815" />
-  <component name="ProjectManager" version="1422637357427" />
-  <component name="PropertiesComponent" version="1422637910805" />
-  <component name="PyPackageService" version="1422610765053" />
+  <component name="ProjectManager" version="1422801072246" />
+  <component name="PropertiesComponent" version="1422720036366" />
+  <component name="PyPackageService" version="1422799130848" />
   <component name="PyTestFrameworkService" version="1421665004496" />
-  <component name="RecentDirectoryProjectsManager" version="1422474790866" />
+  <component name="RecentDirectoryProjectsManager" version="1422798838693" />
   <component name="Registry" version="1421501521108" />
   <component name="RunnerLayoutSettings" version="1421666220021" />
   <component name="SSHConnectionSettings" version="1421578584653" />
-  <component name="StatisticsApplicationUsages" version="1422637226071" />
+  <component name="StatisticsApplicationUsages" version="1422798838700" />
   <component name="TemplateSettings" version="1410333709399" />
   <component name="TodoConfiguration" version="1421225818865" />
   <component name="UISettings" version="1422641111998" />
   <component name="UpdatesConfigurable" version="1422387481697" />
-  <component name="UsageTrigger" version="1422652365391" />
+  <component name="UsageTrigger" version="1422805261027" />
   <component name="UsagesStatistic" version="1421500801827" />
   <component name="WebBrowsersConfiguration" version="1421501521116" />
   <component name="WebServers" version="1421225818868" />
-  <component name="WindowManager" version="1422639814734" />
+  <component name="WindowManager" version="1422805391645" />
   <component name="XDebuggerSettings" version="1421503492405" />
-  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl" version="1422438707689" />
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl" version="1422792757934" />
   <component name="com.intellij.javaee.ExternalResourceManagerImpl" version="1421500809799" />
   <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" version="1421666220024" />
   <component name="libraryTable" version="1421225818871" />

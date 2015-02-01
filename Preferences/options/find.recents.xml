@@ -1,39 +1,38 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>couch</find>
-      <find>create user i</find>
-      <find>create user</find>
-      <find>basicAuth</find>
-      <find>AUTH)</find>
-      <find>CouchError</find>
-      <find>watch</find>
-      <find>auth =</find>
-      <find>create</find>
-      <find>functipn API</find>
-      <find>API</find>
-      <find>API.</find>
-      <find>admin:</find>
-      <find>function API</find>
-      <find>API =</find>
-      <find>.admin.</find>
-      <find>.admin</find>
-      <find>logout:</find>
-      <find>this.admin</find>
+      <find>mocha</find>
+      <find>build-api</find>
+      <find>info:</find>
+      <find>watch-node</find>
+      <find>return</find>
+      <find>compile-sofa</find>
+      <find>dist'</find>
+      <find>compile</find>
+      <find>SOFA_MINIFIED_BUNDLE_NAME</find>
+      <find>console.log</find>
+      <find>get user no u</find>
+      <find>ut att</find>
+      <find>logError</find>
+      <find>util</find>
+      <find>log</find>
+      <find>Database does not exist</find>
+      <find>don</find>
+      <find>only</find>
+      <find>done</find>
+      <find>front/</find>
+      <find>user management</find>
       <find>reset:</find>
-      <find>createuser</find>
-      <find>setAuth</find>
-      <find>verify</find>
-      <find>verify:</find>
-      <find>App</find>
-      <find>Link</find>
-      <find>userActions</find>
-      <find>Logout</find>
-      <find>logout</find>
-      <find>login</find>
+      <find>reset</find>
+      <find>build</find>
+      <find>SHABANG</find>
+      <find>insert</find>
+      <find>cmd</find>
+      <find>build-sofa</find>
+      <find>sofa</find>
+      <find>SOFA</find>
     </findStrings>
     <replaceStrings>
-      <replace>'&lt;%= livereload_port %&gt;'</replace>
       <replace>siesta.</replace>
       <replace>results</replace>
       <replace>siesta</replace>
@@ -61,6 +60,9 @@
       <replace>.masonry</replace>
       <replace>couchdb = require('../src/couchdb').couchdb</replace>
       <replace />
+      <replace />
+      <replace>require('../api').couchdb</replace>
+      <replace>build-potato</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$USER_HOME$/Playground/silk/tests</dir>
@@ -82,6 +84,7 @@
       <dir>$USER_HOME$/Playground/pv2/node_modules</dir>
       <dir>$USER_HOME$/Playground/pv2/styles/scss</dir>
       <dir>$USER_HOME$/Playground/couchdb-as-a-backend/front/test</dir>
+      <dir>$USER_HOME$/Playground/couchdb-as-a-backend/test</dir>
     </dirStrings>
   </component>
 </application>
