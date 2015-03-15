@@ -1,90 +1,100 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>mocha</find>
-      <find>build-api</find>
-      <find>info:</find>
-      <find>watch-node</find>
-      <find>return</find>
-      <find>compile-sofa</find>
-      <find>dist'</find>
-      <find>compile</find>
-      <find>SOFA_MINIFIED_BUNDLE_NAME</find>
-      <find>console.log</find>
-      <find>get user no u</find>
-      <find>ut att</find>
-      <find>logError</find>
-      <find>util</find>
-      <find>log</find>
-      <find>Database does not exist</find>
-      <find>don</find>
-      <find>only</find>
-      <find>done</find>
-      <find>front/</find>
-      <find>user management</find>
-      <find>reset:</find>
-      <find>reset</find>
-      <find>build</find>
-      <find>SHABANG</find>
-      <find>insert</find>
-      <find>cmd</find>
-      <find>build-sofa</find>
-      <find>sofa</find>
-      <find>SOFA</find>
+      <find>spec</find>
+      <find>remove</find>
+      <find>Company</find>
+      <find>Species</find>
+      <find>_POST</find>
+      <find>list</find>
+      <find>radius</find>
+      <find>border-</find>
+      <find>border</find>
+      <find>bottom</find>
+      <find>col-90</find>
+      <find>title</find>
+      <find>title-row</find>
+      <find>display: fle</find>
+      <find>flex</find>
+      <find>display</find>
+      <find>label</find>
+      <find>col-10</find>
+      <find>input[type=</find>
+      <find>code</find>
+      <find>user</find>
+      <find>connect</find>
+      <find>rel</find>
+      <find>livereload</find>
+      <find>browser</find>
+      <find>watch</find>
+      <find>serve</find>
+      <find>brows</find>
+      <find>br</find>
+      <find>browserSym</find>
     </findStrings>
     <replaceStrings>
-      <replace>siesta.</replace>
-      <replace>results</replace>
-      <replace>siesta</replace>
-      <replace>ModelInstance</replace>
-      <replace>listenAndSetState</replace>
-      <replace>onFuzzChange</replace>
-      <replace>User.graph</replace>
-      <replace>Photo.graph</replace>
-      <replace>Model.graph</replace>
-      <replace>Repo.graph</replace>
-      <replace>ParentConfig.graph</replace>
-      <replace>MyOtherModel.graph</replace>
-      <replace>Task.graph</replace>
-      <replace>Mapping.graph</replace>
-      <replace>Person.graph</replace>
-      <replace>M.graph</replace>
-      <replace>M_2.graph</replace>
-      <replace>Car.graph</replace>
-      <replace>.graph</replace>
-      <replace>require('react')</replace>
-      <replace>defaultDB</replace>
-      <replace>admin</replace>
-      <replace>http</replace>
-      <replace>json</replace>
-      <replace>.masonry</replace>
-      <replace>couchdb = require('../src/couchdb').couchdb</replace>
-      <replace />
-      <replace />
-      <replace>require('../api').couchdb</replace>
-      <replace>build-potato</replace>
+      <replace>$scope.user</replace>
+      <replace>marketplaceWantedDetail</replace>
+      <replace>siesta.F4TCollection.Animal</replace>
+      <replace>Filter</replace>
+      <replace>templateUrl: &quot;/t</replace>
+      <replace>// prefetchTemplate: false,</replace>
+      <replace>.</replace>
+      <replace>// prefetchTemplate: false</replace>
+      <replace>DIR.www</replace>
+      <replace>Transport</replace>
+      <replace>transport</replace>
+      <replace>removed</replace>
+      <replace>created</replace>
+      <replace>transportAd</replace>
+      <replace>ad</replace>
+      <replace>AdService</replace>
+      <replace>_getStream</replace>
+      <replace>$very-dark-brown</replace>
+      <replace>$dark-brown</replace>
+      <replace>$brown</replace>
+      <replace>$very-light-brown</replace>
+      <replace>header</replace>
+      <replace>to</replace>
+      <replace>residence</replace>
+      <replace>exchange</replace>
+      <replace>marketplaceFilter</replace>
+      <replace>from</replace>
+      <replace>transportFilter</replace>
+      <replace>farm</replace>
+      <replace>left</replace>
     </replaceStrings>
     <dirStrings>
-      <dir>$USER_HOME$/Playground/silk/tests</dir>
-      <dir>$USER_HOME$/Playground/dowser</dir>
-      <dir>$USER_HOME$/Playground/TCJ/TCJ</dir>
-      <dir>$USER_HOME$/Playground/TCJ</dir>
-      <dir>$USER_HOME$/Playground/ng-siesta</dir>
-      <dir>$USER_HOME$/Playground/rest/test</dir>
+      <dir>$USER_HOME$/Playground/farm4trade/Backend/app</dir>
+      <dir>$USER_HOME$/Playground/farm4trade/Frontend/www/bower_components/font-awesome/scss</dir>
+      <dir>$USER_HOME$/Playground/hall-frontend/src/js/services</dir>
+      <dir>$USER_HOME$/Playground/farm4trade/Frontend/www/lib</dir>
+      <dir>$USER_HOME$/Playground/farm4trade/Frontend/platforms/android/CordovaLib/src/org/apache/cordova</dir>
+      <dir>$USER_HOME$/Playground/farm4trade/Frontend/platforms/android/CordovaLib/src</dir>
+      <dir>$USER_HOME$/Playground/ng-s3upload/src</dir>
+      <dir>$USER_HOME$/Playground/hall-and-partners/project</dir>
+      <dir>$USER_HOME$/Playground/hall-and-partners/static/js</dir>
+      <dir>$USER_HOME$/Playground/hall-and-partners</dir>
+      <dir>$USER_HOME$/Playground/hall-frontend/.sass-cache</dir>
+      <dir>$USER_HOME$/Playground/hall-and-partners/project/apps/api2</dir>
+      <dir>$USER_HOME$/Playground/hall-frontend/src</dir>
+      <dir>$USER_HOME$/Playground/farm4trade/Backend</dir>
+      <dir>$USER_HOME$/Playground/farm4trade/Frontend/test</dir>
+      <dir>$USER_HOME$/Playground/hall-frontend</dir>
+      <dir>$USER_HOME$/Playground/hall-frontend/src/js</dir>
+      <dir>$USER_HOME$/Playground/farm4trade/Frontend/www/js/src/services</dir>
       <dir>$USER_HOME$/Playground/rest/core</dir>
+      <dir>$USER_HOME$/Playground/farm4trade/Frontend/www/js/src/siesta</dir>
+      <dir>$USER_HOME$/Playground/rest/test</dir>
+      <dir>$USER_HOME$/Playground/farm4trade/Frontend</dir>
+      <dir>$USER_HOME$/Playground/farm4trade/Frontend/www/js/src</dir>
+      <dir>$USER_HOME$/Playground/rest-site</dir>
       <dir>$USER_HOME$/Playground/rest</dir>
-      <dir>$USER_HOME$/Playground/pb/tests</dir>
-      <dir>$USER_HOME$/Playground/pb/tests/unit</dir>
-      <dir>$USER_HOME$/Playground/pb/src</dir>
-      <dir>$USER_HOME$/Playground/pv2/node_modules/react-router/modules</dir>
-      <dir>$USER_HOME$/Playground/yallreadyforthis</dir>
-      <dir>$USER_HOME$/Playground/pv2</dir>
-      <dir>$USER_HOME$/Playground/pv2/styles</dir>
-      <dir>$USER_HOME$/Playground/pv2/scripts</dir>
-      <dir>$USER_HOME$/Playground/pv2/node_modules</dir>
-      <dir>$USER_HOME$/Playground/pv2/styles/scss</dir>
-      <dir>$USER_HOME$/Playground/couchdb-as-a-backend/front/test</dir>
-      <dir>$USER_HOME$/Playground/couchdb-as-a-backend/test</dir>
+      <dir>$USER_HOME$/Playground/farm4trade/Frontend/www/js/src/siesta/models</dir>
+      <dir>$USER_HOME$/Playground/farm4trade/Frontend/www</dir>
+      <dir>$USER_HOME$/Playground/farm4trade/Frontend/scss</dir>
+      <dir>$USER_HOME$/Playground/farm4trade/Frontend/www/templates</dir>
+      <dir>$USER_HOME$/Playground/farm4trade/Frontend/www/js</dir>
     </dirStrings>
   </component>
 </application>

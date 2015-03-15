@@ -38,6 +38,8 @@
         <option value="Py.class.shortName" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
+        <option value="jade.mixin" />
+        <option value="erlang.all.name" />
       </list>
     </option>
   </component>
